@@ -1,0 +1,10 @@
+# GMT OFFSET TOKYO->9
+GMT_OFFSET=9
+
+MAZE_WIDTH=19
+MAZE_HEIGHT=19
+
+HAS_WIFI=True
+
+# sleep time(sec) to next maze
+NEXT_SLEEP=6
